@@ -23,7 +23,7 @@ DockerHub at:
     These images are meant to be used in a JupyterHub setup like this
     as well as *standalone*, autonomously, without a JupyterHub server.
     Their source code is provided at GMAP GitHub organization at:
-    - [github.com/europlanet/docker-isis](https://github.com/europlanet/docker-isis)
+    - [github.com/europlanet-gmap/docker-isis](https://github.com/europlanet-gmap/docker-isis)
 
 In the [`docs`](docs/README.md) you'll find detailed information on how to
 change the list of images in your deployment, any image base on the official
